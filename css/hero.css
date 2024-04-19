@@ -6,6 +6,9 @@ body{
     line-height: 30px;
 }
 
+/* header styles */
+/* write your comment here */
+
 header{
     margin: 0 auto;
     background-color: #6D936B;
@@ -32,6 +35,8 @@ header img{
     border: 15px solid white;
 }
 
+/* Main styles */
+
 main{
     max-width: 800px;
     margin: 0 auto;
@@ -43,7 +48,7 @@ main img{
 }
 
 h2{
-    color:#6D936B;
+    color: #C785A1;
     margin: 40px 0 10px
 }
 
