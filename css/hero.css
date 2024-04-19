@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+header{
+    margin: 0 auto;
+    background-color: #6D936B;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+h1, h2{
+    font-family: "Mochiy Pop P One", sans-serif;
+    font-size: 30px;
+    line-height: 30px;
+}
+
+header h1{
+    color: white;
+    font-size: 100px;
+    padding: 0px;
+    line-height: 0px;
+}
+
+header img{
+    border-radius: 165px;
+    width: 300px;
+    border: 15px solid white;
+}
+
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+main img{
+    max-width: 100%;
+}
+
+h2{
+    color:#6D936B;
+    margin: 40px 0 10px
+}
+
+a{
+    color: #632C58;
+}
+a:hover{
+    color: white;
+    background-color: #956C83;
+}
+
+footer{
+    background-color: #6D936B;
+    text-align: center;
+    margin: 0 auto;
+    padding: 1px 20px;
+    color: white;
+}
+
+footer a{
+    color: #afe800;
+}
+
+footer a:hover{
+    color: #afe800;
+    opacity: .75;
+    background-color: transparent;
+}
+
+p.caption{
+    color: #999999;
+    font-style: italic;
+    margin-top: 0;
+}
+
